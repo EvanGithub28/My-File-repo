@@ -1,2 +1,2 @@
-This is documentation about the logic script I created to manage temporary data using the Python programming language and JSON for data structures.
+The apartment logic structure that I implemented into a code and can be run on your terminal, whether it is Windows or Linux, but if you are using Windows, maybe you have to change the code because this code is open source and is worked on in a Linux computer environment.
 <img width="910" height="698" alt="Screenshot_2025-08-09_18-06-02" src="https://github.com/user-attachments/assets/6cc5cef0-4ebc-4961-84b1-f310965aabee" />
