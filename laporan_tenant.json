@@ -1,0 +1,12 @@
+[
+    {
+        "report_id": 1,
+        "tenant_username": "zaki_l1",
+        "floor": 1,
+        "unit_number": "1E04",
+        "complaint_text": "Keluhan: dinding fungus, di lantai 1 dan unit 1E04, terkirim: 2025-07-29 21:24:22.",
+        "datetime": "2025-07-29 21:24:22",
+        "expired": "2025-08-08",
+        "status": "Pending"
+    }
+]
